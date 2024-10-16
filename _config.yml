@@ -1,0 +1,71 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+conference-acronym: IV ERAD|ERAMIA-NO2 2024
+conference-name: IV Escola Regional de Alto Desempenho Norte 2 <br> IV Escola Regional de Aprendizado de Máquina e Inteligência Artificial Norte 2
+conference-date: 4 a 6 de novembro de 2024
+conference-venue: UFOPA, Santarém - PA
+lang: pt-BR
+
+# Build settings
+plugins:
+  - jekyll-seo-tag
+
+title: IV ERAD|ERAMIA-NO2 2024)
+tagline: A IV Escola Regional de Alto Desempenho Região Norte 2 e a IV Escola Regional de Aprendizado de Máquina e Inteligência Artificial Região Norte 2  são eventos promovidos pela Sociedade Brasileira de Computação – SBC. 
+description: >- # this means to ignore newlines until "baseurl:"
+  Organizadas de forma conjunta, estas escolas regionais pretendem estimular o estudo e o desenvolvimento de pesquisas tanto nas áreas de Arquitetura de Computadores e Processamento de Alto Desempenho (ACPAD), como nas áreas de Aprendizado de Máquina (AM) e Inteligência Artificial (IA). A motivação dessa integração decorre do vertiginoso progresso das áreas de AM e IA nos últimos anos, que vem provocando uma crescente demanda por sistemas computacionais de alto desempenho e aceleradores capazes de lidar com análises de grandes volumes de dados em tempo real.
+
+url: "https://www2.sbc.org.br/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/erad_eramia-no2/2024" # the subpath of your site, e.g. /blog
+
+twitter:
+  username: sbcbrasil
+  card: summary
+
+facebook:
+  publisher: sbcbrasil
+
+logo: /assets/images/logos/erad-eramia-logo-sem-texto.png
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+permalink: pretty

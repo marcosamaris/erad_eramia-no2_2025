@@ -186,78 +186,122 @@ Todas as demais atividades serão de tarde. Na segunda-feira serão no <stong>Au
 <table id="user-list" class="palestrantes">
   <tr id="minicurso-1-erad-no2">
     <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Minicurso 1 - ERAD-NO2</strong><br><a href="https://www.linkedin.com/in/sarita-bruschi-ba4b8a14/">Prof. Dra. Sarita Buschi</a> <br><a href="http://prodacad.icmc.usp.br/lattes/files/ssc/scriptLattes/membro-4694142315497364.html">ICMC-USP, São Carlos</a></td>
-    <td style="vertical-align: middle"><img src="/erad_eramia-no2/2024/assets/images/palestrantes/sarita.jpeg" alt="Prof. Dra. Sarita Buschi" class="rounded"> </td>
+    <td style="vertical-align: middle"><img src="/erad_eramia-no2/2024/assets/images/palestrantes/sarita.jpeg" alt="Prof. Dra. Sarita Buschi" class="rounded"> </td> <!--/erad_eramia-no2/2024/assets/images/palestrantes/sarita.jpeg-->
     
 <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
-      <span class="short url"> <strong>Título:</strong> a definir ...<br> <strong>Resumo:</strong> a definir ...</span>
+      <span class="short url"> <strong>Título:</strong> Técnicas para otimização de código<br> <strong>Resumo:</strong> O minicurso abordará as principais técnicas para melhorar o
+desempenho de um código, focando nas linguagens C e Python, além da
+apresentação de ferramentas utilizadas com esse objetivo. O minicurso será de 3
+horas, com uma parte teórica e uma parte prática.</span>
       <span class="long url"> <strong>Título:</strong> a definir ...<br> <strong>Resumo:</strong> a definir ...</span> <a class="toggle-more">show more</a>
     </td>     
     
   </tr>
 
-    <tr id="minicurso-1-eramia-no2">
+  <tr id="minicurso-1-eramia-no2">
     <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Minicurso 1 - ERAMIA-NO2</strong> <br><a href="https://www.linkedin.com/in/marcacini/">Prof. Dr. Ricardo Marcacini </a> <br><a href="http://prodacad.icmc.usp.br/lattes/files/scc/scriptLattes/membro-3272611282260295.html">ICMC-USP, São Carlos</a></td>
-    <td style="vertical-align: middle" ><img src="/erad_eramia-no2/2024/assets/images/palestrantes/marcacini.png" alt="Prof. Dr. Ricardo Marcacini" class="rounded"> </td>
+    <td style="vertical-align: middle" ><img src="/erad_eramia-no2/2024/assets/images/palestrantes/ricardo_atual.png" alt="Prof. Dr. Ricardo Marcacini" class="rounded"> </td>
     
-    <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
-      <span class="short url"> <strong>Título:</strong>a definir ...<br> <strong>Resumo:</strong> a definir ...</span>
+  <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
+      <span class="short url"> <strong>Título:</strong> Como LLMs Podem Apoiar o Processo de Mineração de Textos?<br> <strong>Resumo:</strong> A organização e a extração de conhecimento de grandes bases textuais representam desafios significativos para organizações que lidam com dados não estruturados. Neste minicurso, vamos investigar conceitos teóricos e práticos para entender como os modelos de linguagem de última geração (LLMs) podem ser utilizados na extração de conhecimento a partir de dados textuais, com foco especial em duas tarefas: modelagem de tópicos e classificação de textos. Há um foco em LLMs abertos, que demandam menos recursos computacionais e têm demonstrado desempenho competitivo em diversos domínios de dados textuais.</span>
       <span class="long url"> <strong>Título:</strong> a definir <br> <strong>Resumo:</strong> a definir</span> <a class="toggle-more">show more</a>
     </td>    
   </tr>  
   
-     <tr id="palestras-1-eramia-no2">
+  <tr id="palestras-1-eramia-no2">
     <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Palestra 1 - ERAMIA-NO2</strong> <br><a href="https://www.linkedin.com/in/solangerezende/">Prof. Dr. Solange Rezende</a> <br><a href="http://prodacad.icmc.usp.br/lattes/files/scc/scriptLattes/membro-8526960535874806.html">ICMC-USP, São Carlos</a></td>
     <td style="vertical-align: middle" ><img src="/erad_eramia-no2/2024/assets/images/palestrantes/solange.jpeg" alt="Prof. Dr. Solange Rezende" class="rounded"> </td>    
     <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
-       <span class="short url"> <strong>Título:</strong>a definir ...<br> <strong>Resumo:</strong> a definir ...</span>
+       <span class="short url"> <strong>Título:</strong> Importância dos Dados para Aplicações de Inteligência Artificial <br> <strong>Resumo:</strong> Entenda quais são os fundamentos necessários que você precisa ter para construir suas Soluções em IA.
+Dados é uma parte fundamental para que consiga aplicar as mais poderosas técnicas de IA e obter os mais surpreendentes resultados que ela pode te entregar.</span>
       <span class="long url"> <strong>Título:</strong> a definir <br> <strong>Resumo:</strong> a definir</span> <a class="toggle-more">show more</a>
     </td>    
   </tr>
 
-    <tr id="palestras-empresarial">
-    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Palestra Empresarial</strong> <br><a href="https://www.linkedin.com/in/regiane-kawasaki-b2910932/">Sr. Mauro Marques</a> <br><a href="https://www.icen.ufpa.br/">LexysNexys, SP</a></td>
+  <tr id="palestras-empresarial">
+    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Palestra Empresarial</strong> <br><a href="https://www.linkedin.com/in/maurodonatomarques">Sr. Mauro Marques</a> <br><a href="https://www.icen.ufpa.br/">LexysNexys, SP</a></td>
     <td style="vertical-align: middle" ><img src="/erad_eramia-no2/2024/assets/images/palestrantes/mauro_marques.jpg" alt="Prof. Dr. Mauro Marques" class="rounded"> </td>
     
-    <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
-       <span class="short url"> <strong>Título:</strong>a definir ...<br> <strong>Resumo:</strong> a definir ...</span>
+  <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
+       <span class="short url"> <strong>Título:</strong> Introdução ao Aprendizado de Máquina através de algoritmos com interface Myriad na plataforma HPCC Systems<br> <strong>Resumo:</strong> a definir ...</span>
       <span class="long url"> <strong>Título:</strong> a definir <br> <strong>Resumo:</strong> a definir</span> <a class="toggle-more">show more</a>
     </td>    
   </tr>  
   
-    <tr id="minicurso-2-erad-no2">
-    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Minicurso 2 - ERAMIA-NO2</strong> <br><a href="https://www.linkedin.com/in/regiane-kawasaki-b2910932/">Sr. Mauro Marques</a> <br><a href="https://www.icen.ufpa.br/">LexysNexys, SP</a></td>
+  <tr id="palestras-1-erad-no2">
+    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Palestra 1 - ERAD-NO2</strong> <br><a href="https://www.linkedin.com/in/dcordeiro/">Prof. Dr. Daniel Cordeiro</a> <br><a href="http://www.each.usp.br/dc/">IME-USP, São Paulo</a></td>
+    <td style="vertical-align: middle" ><img src="/erad_eramia-no2/2024/assets/images/palestrantes/daniel.jpeg" alt="Prof. Dr. Daniel Cordeiro" class="rounded"> </td>
+    
+  <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
+      <span class="short url"> <strong>Título:</strong> Estratégias para operar e dimensionar centro de dados de
+plataformas de computação em nuvem de baixa emissão de carbono<br> <strong>Resumo:</strong> A computação em nuvem fornece recursos computacionais
+para a maioria dos serviços e aplicações que usamos diariamente. Dada a sua
+importância, não podemos negligenciar o seu impacto ambiental, gerado pelo
+consumo de energia de data centers (1% da demanda mundial de eletricidade) e
+pelo ciclo de vida da infraestrutura.
+Grandes provedores de serviços em nuvem estão integrando eletricidade renovável
+nas operações de seus data centers para minimizar o impacto ambiental. No
+entanto, os seguintes fatores devem ser considerados quando usamos energia
+renovável: sua produção varia ao longo do tempo; a infraestrutura renovável também
+apresenta impacto ambiental ao longo de seu ciclo de vida; cada localização
+geográfica tem uma capacidade diferente de geração de energia renovável; e
+algumas regiões do mundo já têm a presença de fontes renováveis em sua matriz
+energética.
+Neste seminário, serão apresentadas duas estratégias “carbon-responsive” —
+abordagens que são cientes de seus impactos ambientais e tomam decisões
+informadas — para reduzir o impacto ambiental, em termos de pegada de carbono,
+da operação e dimensionamento de data centers.
+A primeira é um algoritmo do tipo “follow-the-renewables”, uma abordagem que
+aloca e migra a carga de trabalho para os data centers com maior disponibilidade de
+fontes de energia renovável. Avaliamos seu impacto na rede e consumo de energia
+e propusemos um algoritmo de escalonamento que, considerando a topologia e o
+uso da rede, pode planejar as migrações sem gerar congestionamento de rede e
+desperdício de energia.
+
+A segunda é uma estratégia para o dimensionamento da infraestrutura renovável e
+de TI necessária para minimizar a pegada de carbono dos data centers em nuvem:
+definir a área necessária para os painéis solares, o número de turbinas eólicas, a
+capacidade das baterias e o número de servidores. Propomos uma formulação de
+Programa Linear que leva em consideração o impacto ambiental da infraestrutura
+renovável e da fabricação dos servidores, assim como as características específicas
+de cada localização geográfica em termos de capacidade de geração de energia
+renovável, necessidades de resfriamento e composição da matriz energética.
+Este trabalho foi realizado em cooperação com Miguel Vasconcelos (agora no IRIT,
+Toulouse, França), Fanny Dufossé (Inria, Grenoble, França) e pesquisadores do
+projeto ANR DATAZERO2.</span>
+      <span class="long url"> <strong>Título:</strong> a definir <br> <strong>Resumo:</strong> a definir</span> <a class="toggle-more">show more</a>
+    </td>    
+  </tr>  
+
+
+
+  <tr id="minicurso-2-erad-no2">
+    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Minicurso 2 - ERAMIA-NO2</strong> <br><a href="https://www.linkedin.com/in/maurodonatomarques">Sr. Mauro Marques</a> <br><a href="https://www.icen.ufpa.br/">LexysNexys, SP</a></td>
     <td style="vertical-align: middle" ><img src="/erad_eramia-no2/2024/assets/images/palestrantes/mauro_marques.jpg" alt="Prof. Dr. Mauro Marques" class="rounded"> </td>
     
-    <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
-       <span class="short url"> <strong>Título:</strong>a definir ...<br> <strong>Resumo:</strong> a definir ...</span>
+  <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
+       <span class="short url"> <strong>Título:</strong> Processamento e análise de Big Data para aplicação de algoritmos de Machine Learning com interface Myriad através da utilização da plataforma HPCC Systems<br> <strong>Resumo:</strong> a definir ...</span>
       <span class="long url"> <strong>Título:</strong> a definir <br> <strong>Resumo:</strong> a definir</span> <a class="toggle-more">show more</a>
     </td>    
   </tr> 
+
   
     
-    <tr id="minicurso-2-eramia-no2">
-    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Minicurso 2 - ERAD-NO2</strong> <br><a href="https://www.linkedin.com/in/regiane-kawasaki-b2910932/">Prof. Dr. Daniel Cordeiro</a> <br><a href="https://www.icen.ufpa.br/">IME-USP, São Paulo</a></td>
+  <tr id="minicurso-2-eramia-no2">
+    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Minicurso 2 - ERAD-NO2</strong> <br><a href="https://www.linkedin.com/in/dcordeiro/">Prof. Dr. Daniel Cordeiro</a> <br><a href="https://www.icen.ufpa.br/">IME-USP, São Paulo</a></td>
     <td style="vertical-align: middle" ><img src="/erad_eramia-no2/2024/assets/images/palestrantes/daniel.jpeg" alt="Prof. Dr. Daniel Cordeiro" class="rounded"> </td>
     
-    <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
-      <span class="short url"> <strong>Título:</strong>a definir ...<br> <strong>Resumo:</strong> a definir ...</span>
+  <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
+      <span class="short url"> <strong>Título:</strong> <br> <strong>Resumo:</strong> </span>
       <span class="long url"> <strong>Título:</strong> a definir <br> <strong>Resumo:</strong> a definir</span> <a class="toggle-more">show more</a>
     </td>    
   </tr>  
   
   
     
-    <tr id="palestras-1-erad-no2">
-    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Palestra 1 - ERAD-NO2</strong> <br><a href="https://www.linkedin.com/in/regiane-kawasaki-b2910932/">Prof. Dr. Daniel Cordeiro</a> <br><a href="https://www.icen.ufpa.br/">IME-USP, São Paulo</a></td>
-    <td style="vertical-align: middle" ><img src="/erad_eramia-no2/2024/assets/images/palestrantes/daniel.jpeg" alt="Prof. Dr. Daniel Cordeiro" class="rounded"> </td>
-    
-    <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
-      <span class="short url"> <strong>Título:</strong>a definir ...<br> <strong>Resumo:</strong> a definir ...</span>
-      <span class="long url"> <strong>Título:</strong> a definir <br> <strong>Resumo:</strong> a definir</span> <a class="toggle-more">show more</a>
-    </td>    
-  </tr>  
   
-   <tr id="palestras-2-eramia-no2">
+  
+   <!--<tr id="palestras-2-eramia-no2">
     <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Palestra 2 - ERAMIA-NO2</strong> <br><a href="https://www.linkedin.com/in/regiane-kawasaki-b2910932/">A definir ...</a> <br><a href="https://www.icen.ufpa.br/">IME-USP, São Paulo</a></td>
     <td style="vertical-align: middle" ><img src="" alt="Prof. Dr. Daniel Cordeiro" class="rounded"> </td>
     
@@ -297,7 +341,7 @@ Todas as demais atividades serão de tarde. Na segunda-feira serão no <stong>Au
       <span class="short url"> <strong>Título:</strong>a definir ...<br> <strong>Resumo:</strong> a definir ...</span>
       <span class="long url"> <strong>Título:</strong> a definir <br> <strong>Resumo:</strong> a definir</span> <a class="toggle-more">show more</a>
     </td>    
-  </tr>  
+  </tr>  -->
   
 </table>
 

@@ -33,8 +33,8 @@ tagline: A IV Escola Regional de Alto Desempenho Região Norte 2 e a IV Escola R
 description: >- # this means to ignore newlines until "baseurl:"
   Organizadas de forma conjunta, estas escolas regionais pretendem estimular o estudo e o desenvolvimento de pesquisas tanto nas áreas de Arquitetura de Computadores e Processamento de Alto Desempenho (ACPAD), como nas áreas de Aprendizado de Máquina (AM) e Inteligência Artificial (IA). A motivação dessa integração decorre do vertiginoso progresso das áreas de AM e IA nos últimos anos, que vem provocando uma crescente demanda por sistemas computacionais de alto desempenho e aceleradores capazes de lidar com análises de grandes volumes de dados em tempo real.
 
-url: "https://www2.sbc.org.br/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/erad_eramia-no2/2024" # the subpath of your site, e.g. /blog
+url: "https://www2.sbc.org.br/" # the base hostname & protocol for your site, e.g. http://example.com  https://www2.sbc.org.br/
+baseurl: "/erad_eramia-no2/2024" # the subpath of your site, e.g. /blog /erad_eramia-no2/2024
 
 twitter:
   username: sbcbrasil

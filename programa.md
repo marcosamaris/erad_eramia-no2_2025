@@ -118,7 +118,7 @@ Todas as demais atividades serão de tarde. Na segunda-feira serão no <stong>Au
     <td class="tg-9wq8">9:00 - 10:30</td>
     <td class="tg-9wq8">Curso I - ERAD (Sarita Muschi)<br>Curso I ERAMIA (Ricardo Marcacini)</td>
     <td class="tg-9wq8">Curso II ERAD(Daniel Cordeiro)<br>Curso II ERAMIA (Mauro Marques - LexisNexis)</td>
-    <td class="tg-9wq8">Curso III ERAD (Carlos Patrick - TCE)<br>Curso III ERAMIA (???)</td>
+    <td class="tg-9wq8">Curso III ERAD (Patrick Alves - TCE)<br>Curso III ERAMIA (Omar Carmona Cortes)</td>
   </tr>
   <tr>
     <td class="tg-9wq8">10:30 - 11:00</td>
@@ -130,7 +130,7 @@ Todas as demais atividades serão de tarde. Na segunda-feira serão no <stong>Au
     <td class="tg-9wq8">11:00 - 12:30</td>
     <td class="tg-c3ow">Curso I - ERAD (Sarita Muschi)<br>Curso I ERAMIA (Ricardo Marcacini)</td>
     <td class="tg-c3ow">Curso II ERAD(Daniel Cordeiro)<br>Curso II ERAMIA (Mauro Marques - LexisNexis)</td>
-    <td class="tg-c3ow">Curso III ERAD (Carlos Patrick - TCE)<br>Curso III ERAMIA (???)</td>
+    <td class="tg-c3ow">Curso III ERAD (Patrick Alves - TCE)<br>Curso III ERAMIA (Omar Carmona Cortes)</td>
   </tr>
   <tr>
     <td class="tg-9wq8"></td>
@@ -166,7 +166,7 @@ Todas as demais atividades serão de tarde. Na segunda-feira serão no <stong>Au
     <td class="tg-9wq8">16:30 - 17:00</td>
     <td class="tg-9wq8">Palestra empresarial</td>
     <td class="tg-9wq8" rowspan="2">Mesa - Colaboração Academia e Indústria</td>
-    <td class="tg-9wq8">Palestra ERAMIA - Carlos Patrick</td>
+    <td class="tg-9wq8">Palestra ERAMIA - Patrick Alves</td>
   </tr>
   <tr>
     <td class="tg-9wq8">17:00 - 18:00</td>
@@ -296,9 +296,18 @@ projeto ANR DATAZERO2.</span>
       <span class="long url"> <strong>Título:</strong> a definir <br> <strong>Resumo:</strong> a definir</span> <a class="toggle-more">show more</a>
     </td>    
   </tr>  
+
   
   
-    
+  
+  <tr id="palestras-2-eramia-no2">
+    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Palestra 2 - ERAMIA-NO2</strong> <br><a href="https://www.linkedin.com/in/cpatrickalves/">Sr. Patrick Alves</a> <br><a href="#">UFPA, PA</a></td>
+    <td style="vertical-align: middle" ><img src="/erad_eramia-no2/2024/assets/images/palestrantes/patrick.jpeg" alt="Patrick Alves" class="rounded"> </td>    
+    <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
+       <span class="short url"> <strong>Título:</strong> Inteligência Artificial e Auditoria: O Futuro da Gestão Pública <br> <strong>Minibio:</strong> Graduado em Engenharia da Computação pela Universidade Federal do Pará (2008), completou seu mestrado em Engenharia Elétrica com foco em Telecomunicações (2010) e doutorado em Engenharia Elétrica com especialização em Computação Aplicada (2017), também nesta instituição. Ao longo de sua carreira acadêmica e profissional, destacou-se principalmente no campo da Ciência de Dados, contribuindo significativamente para projetos de pesquisa e desenvolvimento, como tecnologias móveis 4G e análises de projeção para sistemas de Previdência. Atualmente, desempenha o papel de Cientista de Dados no Tribunal de Contas do Estado do Pará e atua como consultor independente em Inteligência Artificial, área na qual acumula mais de seis anos de experiência. Recentemente, dedicou-se a aprofundar o conhecimento e desenvolvimento de soluções personalizadas em Inteligência Artificial Generativa, impulsionando inovação, eficiência e crescimento em variados setores.</span>
+      <span class="long url"> <strong>Título:</strong> a definir <br> <strong>Resumo:</strong> a definir</span> <a class="toggle-more">show more</a>
+    </td>    
+  </tr>
   
   
    <!--<tr id="palestras-2-eramia-no2">

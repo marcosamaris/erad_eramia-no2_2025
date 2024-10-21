@@ -53,7 +53,7 @@ A IV ERAD\|ERAMIA-NO2 2024 acontecerá na [Universidade do Oeste do Pará - UFOP
 ## Comissão Organizadora IV ERAD\|ERAMIA-NO2 2024  
 
 * Adrielson Ferreira Justino
-* Anderson Menezes
+* Anderson Alvarenga de Moura Meneses
 * Andrik Guimarães Ferreira
 * Angel Pena Galvão
 * Antonio Fernando Lavareda Jacob Junior

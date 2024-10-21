@@ -8,7 +8,7 @@ subtitle:
 
 Aproveite e faça a inscrição com antecedência para aproveitar os descontos. As inscrições online para a IV ERAD\|ERAMIA-NO2 2024 devem ser realizadas pelo Sistema de Inscrições da SBC (ECOS).
 
-![Inscreva-se pelo COMBO SBC](/erad_eramia-no2/2024/assets/images/banner_COMBO-1024x168.png.webp)
+![Inscreva-se pelo COMBO SBC](/erad_eramia-no2/2024/assets/images/banner_COMBO-1024x168.png.webp) <!-/erad_eramia-no2/2024/->
 
 
 ## Inscrição e Instrução para Autores

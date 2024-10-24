@@ -336,7 +336,7 @@ projeto ANR DATAZERO2.</span> <a class="toggle-more">show more</a>
     <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Minicurso 3 - ERAMIA-NO2</strong> <br><a href="https://www.linkedin.com/in/omar-andres-carmona-cortes-8a226133/">Prof. Omar Carmona </a> <br><a href="">IFMA, São Luis</a></td>
     <td style="vertical-align: middle"><img src="/erad_eramia-no2/2024/assets/images/palestrantes/omar.jpg" alt="Dr. Omar Andres Carmona Cortes" class="rounded"> </td>
     
-    <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
+  <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
       <span class="short url"> <strong>Título:</strong>Introdução à Aprendizagem Profunda Usando Python e Keras<br> <strong>Resumo:</strong> O minicurso foca na utilização da aprendizagem profunda, do inglês deep learning, por meio da linguagem de programação Python e o framework Keras...</span>
       <span class="long url"> <strong>Título:</strong> Introdução à Aprendizagem Profunda Usando Python e Keras<br> <strong>Resumo:</strong> O minicurso foca na utilização da aprendizagem profunda, do inglês deep learning, por meio da linguagem de programação Python e o framework Keras. Serão vistos conceitos essenciais de aprendizagem de máquina, redes neurais e redes neurais convolucionais.</span> <a class="toggle-more">show more</a>
     </td>    

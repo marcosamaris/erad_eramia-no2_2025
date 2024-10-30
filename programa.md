@@ -220,7 +220,7 @@ Dados é uma parte fundamental para que consiga aplicar as mais poderosas técni
   </tr>
 
   <tr id="palestras-empresarial">
-    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Palestra Empresarial</strong> <br><a href="https://www.linkedin.com/in/maurodonatomarques">Sr. Mauro Marques</a> <br><a href="">LexysNexys, SP</a></td>
+    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Palestra Empresarial</strong> <br><a href="https://www.linkedin.com/in/maurodonatomarques">Sr. Mauro Marques</a> <br><a href="">LexisNexis, SP</a></td>
     <td style="vertical-align: middle"><img src="/erad_eramia-no2/2024/assets/images/palestrantes/mauro_marques.jpg" alt="Prof. Dr. Mauro Marques" class="rounded"> </td>
     
   <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
@@ -231,7 +231,7 @@ Dados é uma parte fundamental para que consiga aplicar as mais poderosas técni
   
 
   <tr id="minicurso-2-erad-no2">
-    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Minicurso 2 - ERAMIA-NO2</strong> <br><a href="https://www.linkedin.com/in/maurodonatomarques">Sr. Mauro Marques</a> <br><a href="">LexysNexys, SP</a></td>
+    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Minicurso 2 - ERAMIA-NO2</strong> <br><a href="https://www.linkedin.com/in/maurodonatomarques">Sr. Mauro Marques</a> <br><a href="">LexisNexis, SP</a></td>
     <td style="vertical-align: middle"><img src="/erad_eramia-no2/2024/assets/images/palestrantes/mauro_marques.jpg" alt="Prof. Dr. Mauro Marques" class="rounded"> </td>
     
   <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">

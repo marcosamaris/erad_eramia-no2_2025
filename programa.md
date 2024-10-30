@@ -153,7 +153,7 @@ Todas as demais atividades serão de tarde. Na segunda-feira serão no <strong>A
   <tr>
     <td class="tg-9wq8">15:00 - 16:00</td>
     <td class="tg-9wq8">Palestra de abertura Solange Rezende</td>
-    <td class="tg-9wq8">Palestra ERAMIA</td>
+    <td class="tg-9wq8">Palestra ERAMIA - Omar Carmona Cortes</td>
     <td class="tg-c3ow">Fórum de IC/PG ERAD|ERAMIA</td>
   </tr>
   <tr>
@@ -166,7 +166,7 @@ Todas as demais atividades serão de tarde. Na segunda-feira serão no <strong>A
     <td class="tg-9wq8">16:30 - 17:00</td>
     <td class="tg-9wq8">Palestra empresarial</td>
     <td class="tg-9wq8" rowspan="2">Mesa - Colaboração Academia e Indústria</td>
-    <td class="tg-9wq8">Palestra ERAMIA - Patrick Alves</td>
+    <td class="tg-9wq8">Palestra ERAD - Patrick Alves</td>
   </tr>
   <tr>
     <td class="tg-9wq8">17:00 - 17:30</td>
@@ -344,12 +344,24 @@ projeto ANR DATAZERO2.</span> <a class="toggle-more">show more</a>
   
   
   <tr id="minicurso-3-erad-no2">
-    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Palestra 3 - ERAMIA-NO2</strong> <br><a href="https://www.linkedin.com/in/cpatrickalves/">Dr. Patrick Alves - TCE/PA</a> <br><a href="">...</a></td>
+    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Palestra 2 - ERAD-NO2</strong> <br><a href="https://www.linkedin.com/in/cpatrickalves/">Dr. Patrick Alves - TCE/PA</a> <br><a href="">...</a></td>
     <td style="vertical-align: middle"><img src="/erad_eramia-no2/2024/assets/images/palestrantes/patrick.jpeg" alt="Dr. Carlos Patrick -TCE/PA" class="rounded"> </td>
     
   <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
        <span class="short url"> <strong>Título:</strong>Inteligência Artificial e Auditoria: O Futuro da Gestão Pública<br> <strong>Resumo:</strong> A palestra aborda o potencial da Inteligência Artificial (IA) para revolucionar a Gestão Pública, explorando suas aplicações em áreas como otimização de processos, análise de dados e tomada de decisões. São apresentados exemplos práticos de como a IA está sendo utilizada para aprimorar a eficiência e a qualidade dos serviços públicos. A palestra também discute os desafios e as considerações éticas relacionadas à implementação da IA na administração pública, como a necessidade de garantir a transparência, a responsabilidade e a proteção de dados.</span>
       <span class="long url"> <strong>Título:</strong>Inteligência Artificial e Auditoria: O Futuro da Gestão Pública <br> <strong>Resumo:</strong> A palestra aborda o potencial da Inteligência Artificial (IA) para revolucionar a Gestão Pública, explorando suas aplicações em áreas como otimização de processos, análise de dados e tomada de decisões. São apresentados exemplos práticos de como a IA está sendo utilizada para aprimorar a eficiência e a qualidade dos serviços públicos. A palestra também discute os desafios e as considerações éticas relacionadas à implementação da IA na administração pública, como a necessidade de garantir a transparência, a responsabilidade e a proteção de dados.</span> <a class="toggle-more">show more</a>
+    </td>    
+  </tr>
+
+
+
+  <tr id="minicurso-3-erad-no2">
+    <td style="vertical-align:middle; text-align:center" class="atividade"><strong>Palestra 3 - ERAMIA-NO2</strong> <br><a href="https://www.linkedin.com/in/cpatrickalves/">Prof. Omar Carmona </a> <br><a href="">IFMA, São Luis</a></td>
+    <td style="vertical-align: middle"><img src="/erad_eramia-no2/2024/assets/images/palestrantes/omar.jpg" alt="Prof. Omar Carmona" class="rounded"> </td>
+    
+  <td style="vertical-align:middle; text-align: justify;" class="resumo multi-url">
+       <span class="short url"> <strong>Título:</strong>Aprendizagem Profunda Aplicada a Problemas Portuários<br> <strong>Resumo:</strong> A inovação na automação de operações portuárias sem dúvida vem crescendo significativamente, especialmente no que se trata a automatização de operações com containers. No entanto o número de publicações na área ainda é pequeno, especialmente se contarmos as inovações em temos de operações graneleiras. Nesta palestra serão apresentados os conceitos de aprendizagem profunda que foram aplicados ou vem sendo aplicados com sucesso na área portuária.</span>
+      <span class="long url"> <strong>Título:</strong>Aprendizagem Profunda Aplicada a Problemas Portuários <br> <strong>Resumo:</strong> A inovação na automação de operações portuárias sem dúvida vem crescendo significativamente, especialmente no que se trata a automatização de operações com containers. No entanto o número de publicações na área ainda é pequeno, especialmente se contarmos as inovações em temos de operações graneleiras. Nesta palestra serão apresentados os conceitos de aprendizagem profunda que foram aplicados ou vem sendo aplicados com sucesso na área portuária.</span> <a class="toggle-more">show more</a>
     </td>    
   </tr>
   

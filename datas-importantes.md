@@ -9,11 +9,10 @@ subtitle: Fórum de Iniciação Científica e Pós-graduação
 
 
 ### Datas importantes:
-
-- **Data de abertura das chamadas:** 15/08/2024
-- **Data limite de submissão de trabalhos:** <s>04/09/2024</s> - <s>15/09/2024</s> - 20/09/2024
-- **Data de notificação de aceitação:** <s>04/10/2024</s> - 07/10/2024
-- **Data de envio da versão final:**  14/10/2024
+- **Data de abertura das chamadas:** a definir
+- **Data limite de submissão de trabalhos:** a definir
+- **Data de notificação de aceitação:** a definir
+- **Data de envio da versão final:**  a definir
 	
 
 ## Comissão Organizadora IV ERAD\|ERAMIA-NO2 2024  

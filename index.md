@@ -1,6 +1,6 @@
 ---
 layout: home
-title: IV ERAD|ERAMIA-NO2 2024
+title: V ERAD|ERAMIA-NO2 2024
 ---
 <style type="text/css">
 .text-justify {
@@ -52,25 +52,26 @@ A V ERAD\|ERAMIA-NO2 2025 acontecerá na [Universidade do Sul e Sudeste do Pará
 
 ## Comissão Organizadora V ERAD\|ERAMIA-NO2 2025
 
-* Adrielson Ferreira Justino
-* Anderson Alvarenga de Moura Meneses
-* Andrik Guimarães Ferreira
-* Angel Pena Galvão
-* Antonio Fernando Lavareda Jacob Junior
-* Deam James Azevedo da Silva
-* Fábio Manoel França Lobato
-* Fabrício Almeida do Carmo
-* Flávia Pessoa
-* Gabriele de Sousa Araújo
-* Helaine Cristina Moraes Furtado
-* João Lúcio de Souza Junior
-* Josecley Goes
-* Josivaldo de Souza Araújo
-* Kleberson Junio do Amaral Serique
-* Klenilmar Lopes Dias
-* Liviane Ponte Rego
-* Marcelino Silva da Silva
-* Marcos Tulio Amaris Gonzalez
-* Omar Carmona Cortes 
-* Paula Renatha
+* Adrielson Ferreira Justino - Universidade Estadual do Maranhão
+* Anderson Menezes - Universidade Federal do Oeste do Pará Campus Santarém
+* Andrik Guimarães Ferreira - Instituto Esperança de Ensino Superior (IESPES) Santarém
+* Angel Pena Galvão - Instituto Federal de Educação Ciência e Tecnologia do Pará Campus Óbidos
+* Antonio Fernando Lavareda Jacob Junior - Universidade Estadual do Maranhão
+* Deam James Azevedo da Silva - Universidade Federal do Oeste do Pará Campus Santarém
+* Diego Gomes - Universidade Federal do Sul e Sudeste do Pará
+* Fábio Manoel França Lobato - Universidade Federal do Oeste do Pará
+* Fabrício Almeida do Carmo - Universidade Federal do Oeste do Pará
+* Flávia Pessoa	Universidade - Federal do Oeste do Pará Campus Oriximiná
+* Gabriele de Sousa Araújo - Universidade Estadual do Maranhão
+* Helaine Cristina Moraes Furtado- Universidade Federal do Oeste do Pará Campus Santarém
+* Iago Medeiros - Universidade Federal do Pará, Campus Tucuruí
+* João Lúcio de Souza Junior - Instituto Federal de Educação Ciência e Tecnologia do Pará Campus Óbidos
+* Josecley Goes - Universidade Federal do Oeste do Pará Campus Santarém
+* Josivaldo de Souza Araújo - Universidade Federal do Pará Campus Belém
+* Kleberson Junio do Amaral Serique - Instituto Federal de Educação Ciência e Tecnologia do Pará Campus Santarém
+* Klenilmar Lopes Dias - Instituto Federal de Educação Ciência e Tecnologia do Amapá
+* Liviane Ponte Rego - Universidade Federal do Oeste do Pará Campus Santarém
+* Marcelino Silva da Silva - Universidade Federal do Oeste do Pará Campus Santarém
+* Marcos Tulio Amaris Gonzalez - Universidade Federal do Pará Campus Belém
+* Paula Renatha - Universidade Federal do Oeste do Pará Campus Santarém
 

@@ -56,11 +56,13 @@ Validação, Verificação, Testes e Depuração de Aplicações Paralelas</li>
 * Angel Pena Galvão - Instituto Federal de Educação Ciência e Tecnologia do Pará Campus Óbidos
 * Antonio Fernando Lavareda Jacob Junior - Universidade Estadual do Maranhão
 * Deam James Azevedo da Silva - Universidade Federal do Oeste do Pará Campus Santarém
+* Diego Gomes - Universidade Federal do Sul e Sudeste do Pará
 * Fábio Manoel França Lobato - Universidade Federal do Oeste do Pará
 * Fabrício Almeida do Carmo - Universidade Federal do Oeste do Pará
 * Flávia Pessoa	Universidade - Federal do Oeste do Pará Campus Oriximiná
 * Gabriele de Sousa Araújo - Universidade Estadual do Maranhão
 * Helaine Cristina Moraes Furtado- Universidade Federal do Oeste do Pará Campus Santarém
+* Iago Medeiros - Universidade Federal do Pará, Campus Tucuruí
 * João Lúcio de Souza Junior - Instituto Federal de Educação Ciência e Tecnologia do Pará Campus Óbidos
 * Josecley Goes - Universidade Federal do Oeste do Pará Campus Santarém
 * Josivaldo de Souza Araújo - Universidade Federal do Pará Campus Belém
@@ -70,6 +72,7 @@ Validação, Verificação, Testes e Depuração de Aplicações Paralelas</li>
 * Marcelino Silva da Silva - Universidade Federal do Oeste do Pará Campus Santarém
 * Marcos Tulio Amaris Gonzalez - Universidade Federal do Pará Campus Belém
 * Paula Renatha - Universidade Federal do Oeste do Pará Campus Santarém
+
 
 
 

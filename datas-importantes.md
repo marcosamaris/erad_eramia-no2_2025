@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Datas Importantes - IV ERAD|ERAMIA-NO2 - 2024
+title: Datas Importantes - V ERAD|ERAMIA-NO2 - 2024
 subtitle: Fórum de Iniciação Científica e Pós-graduação
 ---
 
 
-@s autor@s interessad@s em apresentar seus trabalhos IV ERAD\|ERAMIA Norte 2 - 2024 deverão submeter seus resumos expandidos em português ou inglês utilizando o sistema JEMS em formato PDF de máximo 4 páginas no [formato da SBC](https://www.sbc.org.br/wp-content/uploads/2024/07/modelosparapublicaodeartigos.zip). Os artigos serão avaliados pelos membros do comitê de programa e por revisores externos ao comitê. Os anais serão publicados no SBC OpenLib (SOL), o portal de publicações e conteúdo digital mantido pela Sociedade Brasileira de Computação (SBC).
+@s autor@s interessad@s em apresentar seus trabalhos V ERAD\|ERAMIA Norte 2 - 2024 deverão submeter seus resumos expandidos em português ou inglês utilizando o sistema JEMS em formato PDF de máximo 4 páginas no [formato da SBC](https://www.sbc.org.br/wp-content/uploads/2024/07/modelosparapublicaodeartigos.zip). Os artigos serão avaliados pelos membros do comitê de programa e por revisores externos ao comitê. Os anais serão publicados no SBC OpenLib (SOL), o portal de publicações e conteúdo digital mantido pela Sociedade Brasileira de Computação (SBC).
 
 
 ### Datas importantes:
@@ -15,7 +15,7 @@ subtitle: Fórum de Iniciação Científica e Pós-graduação
 - **Data de envio da versão final:**  a definir
 	
 
-## Comissão Organizadora IV ERAD\|ERAMIA-NO2 2024  
+## Comissão Organizadora V ERAD\|ERAMIA-NO2 2025  
 
 * Adrielson Ferreira Justino - Universidade Estadual do Maranhão
 * Anderson Menezes - Universidade Federal do Oeste do Pará Campus Santarém
